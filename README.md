@@ -2,7 +2,7 @@
 
 Repository URL: https://github.com/Ant-M84/SVG-Logo-Maker
 
-Video Tutorial:
+Video Tutorial: https://drive.google.com/file/d/1Fg9__9YbQyJA-E8g8ClKU-VGcta7E2_W/view
 
 ## Description
 
