@@ -24,7 +24,7 @@ It is important that you rename any generated SVG that you would like to keep (e
 
 ./examples/logo.svg
 
-![Example of generated SVG in the shape of a black square containing yellow text "ABC"](./examples/logo.svg)
+![Example of generated SVG in the shape of a black square containing yellow text "ABC"](./examples/sample-logo.svg)
 
 ## Credits
 
