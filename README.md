@@ -22,8 +22,6 @@ The application will generate a 'logo.svg' file under the examples folder.
 
 It is important that you rename any generated SVG that you would like to keep (e.g. 'sample.svg') as it will be overwritten by a new 'logo.svg' if not renamed.
 
-./examples/logo.svg
-
 ![Example of generated SVG in the shape of a black square containing yellow text "ABC"](./examples/sample-logo.svg)
 
 ## Credits
